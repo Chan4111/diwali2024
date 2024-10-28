@@ -32,7 +32,7 @@ body {
 }
 
 
-@media only screen and (max-width:386px) {
+@media only screen and (max-width:480px) {
     body {
         flex-direction: column;
         background-image: url(2.jpg);
